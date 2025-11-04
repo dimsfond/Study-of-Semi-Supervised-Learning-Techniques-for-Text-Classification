@@ -13,7 +13,7 @@ Includes Self‑Training, Co‑Training, Cluster‑then‑Label, and GAN‑BERT 
 | `CO-TRAINING.ipynb` | Implementation and experiments for Co‑Training |
 | `ClusterThenLabel.ipynb` | Experiments using clustering then labeling approach |
 | `GAN-BERT.ipynb` | GAN‑BERT approach combining GAN and BERT for semi-supervised learning |
-| `README.txt` | (Old / backup readme) |
+| `README.md` | (README file) |
 | `LICENSE` | License file (GPL‑3.0) |
 
 ---
